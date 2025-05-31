@@ -30,13 +30,13 @@ Welcome to the Restaurant Website project! This website showcases a modern resta
 <!-- Replace the image URLs below with your own screenshots -->
 
 ### Home Page
-![Home Page](homepage.png)
+![Home Page](ss1.png)
 
-### Reservation Form
-![Reservation Form](reservation.png)
+### Menu Page
+![Reservation Form](ss2.png)
 
-### Testimonials Section
-![Testimonials](testimonials.png)
+### About Us
+![Testimonials](ss3.png)
 
 ---
 
