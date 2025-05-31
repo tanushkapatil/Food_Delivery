@@ -1,48 +1,47 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
+# Restaurant Website
 
-  <br />
-  <br />
+Welcome to the Restaurant Website project! This website showcases a modern restaurant's menu, reservation system, testimonials, features, events, and contact details with an elegant and responsive design.
 
-  <h2 align="center">Grilli - Restaurant Website</h2>
+---
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+## Features
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+- Winter special menu timings
+- Online reservation form with date and time selection
+- Customer testimonials section
+- Highlights of restaurant strengths (Hygienic Food, Fresh Environment, Skilled Chefs, Events & Parties)
+- Upcoming events showcase
+- Contact information and subscription form
+- Responsive and accessible design with modern UI
 
-</div>
+---
 
-<br />
+## Technologies Used
 
-### Demo Screeshots
+- HTML5
+- CSS3 (with animations and responsive layouts)
+- Ionicons for icons
+- Lazy-loaded images for performance optimization
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+---
 
-### Prerequisites
+## Screenshots
 
-Before you begin, ensure you have met the following requirements:
+<!-- Replace the image URLs below with your own screenshots -->
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+### Home Page
+![Home Page](./assets/screenshots/homepage.png)
 
-### Run Locally
+### Reservation Form
+![Reservation Form](./assets/screenshots/reservation.png)
 
-To run **Grilli** locally, run this command on your git bash:
+### Testimonials Section
+![Testimonials](./assets/screenshots/testimonials.png)
 
-Linux and macOS:
+---
 
-```bash
-sudo git clone https://github.com/
-```
+## How to Run
 
-Windows:
-
-```bash
-git clone https://github.com/c
-```
-
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/restaurant-website.git
