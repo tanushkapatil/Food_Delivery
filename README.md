@@ -30,13 +30,13 @@ Welcome to the Restaurant Website project! This website showcases a modern resta
 <!-- Replace the image URLs below with your own screenshots -->
 
 ### Home Page
-![Home Page](./assets/screenshots/homepage.png)
+![Home Page](homepage.png)
 
 ### Reservation Form
-![Reservation Form](./assets/screenshots/reservation.png)
+![Reservation Form](reservation.png)
 
 ### Testimonials Section
-![Testimonials](./assets/screenshots/testimonials.png)
+![Testimonials](testimonials.png)
 
 ---
 
@@ -44,4 +44,4 @@ Welcome to the Restaurant Website project! This website showcases a modern resta
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/restaurant-website.git
+   git clone https://github.com/tanushkapatil/Food_Delivery.git
